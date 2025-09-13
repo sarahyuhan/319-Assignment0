@@ -1,0 +1,8 @@
+input_file,operation,result,error
+input.csv,add,15.0,0
+input.csv,multiply,70.0,0
+input.csv,subtract,4.0,0
+input.csv,divide,,1
+input.csv,exponentiate,,1
+input.csv,divide,,1
+input.csv,unknown_operator,,1
